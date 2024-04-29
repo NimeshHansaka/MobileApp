@@ -1,0 +1,43 @@
+# Flutter specific files
+*.iml
+*.lock
+*/.idea/
+*/.vscode/
+*/.dart_tool/
+*/.packages
+*/.pub/
+*/build/
+*.log
+.idea/
+*.swp
+
+# iOS specific files
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework/flutter_assets/
+**/ios/Flutter/App.framework/App
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/App.framework/Info.plist
+
+# Android specific files
+**/android/.gradle/
+**/android/local.properties
+**/android/gradlew
+**/android/gradlew.bat
+**/android/gradle/
+**/android/app/build/
+**/android/build/
+**/android/gradle-wrapper.properties
+**/android/gradle.properties
+**/android/gradle.properties
+**/android/gradle-wrapper.properties
+**/android/gradle-wrapper.jar
+
+# macOS (if you're developing on a Mac)
+.DS_Store
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
